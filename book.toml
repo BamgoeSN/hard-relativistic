@@ -1,0 +1,9 @@
+[book]
+authors = []
+language = "ko"
+multilingual = false
+src = "src"
+title = "물리I 특수 상대성 이론: 심화"
+
+[output.html]
+mathjax-support = true
