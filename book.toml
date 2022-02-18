@@ -3,7 +3,7 @@ authors = []
 language = "ko"
 multilingual = false
 src = "src"
-title = "물리I 특수 상대성 이론: 심화"
+title = "마크다운으로 작성하는 칼럼 예시"
 
 [output.html]
 mathjax-support = true
